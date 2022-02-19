@@ -5,7 +5,6 @@
 int main(void)
 {
     getProcInfo();
-    //printf(1,"SUCCESS\n");
     exit();
     return 0;
 }
