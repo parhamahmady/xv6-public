@@ -156,6 +156,7 @@ int             fetchint(uint, int*);
 int             fetchstr(uint, char**);
 void            syscall(void);
 int             getProcInfo(void);
+int             getTicks(void);
 
 // timer.c
 void            timerinit(void);
